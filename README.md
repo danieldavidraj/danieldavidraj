@@ -9,4 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 [![Daniel Davidraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true)](https://github.com/danieldavidraj/danieldavidraj/)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj)](https://github.com/danieldavidraj/danieldavidraj/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10)](https://github.com/danieldavidraj/danieldavidraj/)
