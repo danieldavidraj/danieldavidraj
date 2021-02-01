@@ -1,5 +1,5 @@
-<a href="https://github.com/danieldavidraj/danieldavidraj/">
-  <img align="left" src="instagram.svg" height="20px" width="20px" />
+<a href="https://www.instagram.com/daniel_davidraj_/">
+  <img align="left" src="instagram.svg" height="30px" width="30px" />
 </a><br>
 
 ### Hi there 👋
