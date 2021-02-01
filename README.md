@@ -2,7 +2,7 @@
   <img align="left" src="instagram.svg" height="30px" width="30px" />
 </a><br>
 
-### Hi there 👋
+### Have a look 👋
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Machine Learning
 <!-- - 👯 I’m looking to collaborate on ...
