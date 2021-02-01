@@ -4,7 +4,11 @@
 </a>
 <a href="https://www.facebook.com/daniel.davidraj.9">
   <img align="left" src="facebook.svg" height="30px" width="30px" />
-</a><br>
+</a>
+<a href="https://twitter.com/DanielDavidraj2">
+  <img align="left" src="twitter.svg" height="30px" width="30px" />
+</a>
+<br>
 
 ### Have a look 😄
 - 🔭 I’m currently working on Web Development
