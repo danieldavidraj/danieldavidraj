@@ -9,5 +9,5 @@
 - ⚡ Fun fact: ... -->
 <br>
 
-[![Daniel Davidraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&bg_color=0,000000,FF0000&&text_color=fff&title_color=fff&include_all_commits=true)](https://github.com/danieldavidraj/danieldavidraj/)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact)](https://github.com/danieldavidraj/danieldavidraj/)<br>
+[![Daniel Davidraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&bg_color=0,000000,FF0000&&text_color=fff&title_color=fff&include_all_commits=true)](https://github.com/danieldavidraj/danieldavidraj/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact)](https://github.com/danieldavidraj/danieldavidraj/)
