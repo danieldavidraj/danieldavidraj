@@ -20,7 +20,7 @@
 - 💬 Ask me about Long Rides🏍️
 - 📫 How to reach me: Just Ping Me😎
 - 😄 Pronouns: 🤒
-- ⚡ Fun fact: Waiting for Jarvis
+- ⚡ Fun fact: Bunk the class, but don't skip the portions 
 <br>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&bg_color=90,000000,FF0000&&text_color=fff&title_color=fff&include_all_commits=true&line_height=24&custom_title=My Github" />
