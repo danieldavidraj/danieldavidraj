@@ -1,6 +1,6 @@
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
-  <img align="left" src="instagram.svg" />
-</a>
+  <img align="left" src="instagram.svg" height="20px" width="20px" />
+</a><br>
 
 ### Hi there 👋
 - 🔭 I’m currently working on Web Development
