@@ -13,13 +13,13 @@
 </a>
 <br>
 
-### Have a look 😄
+### Have a look 😜
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Machine Learning
 - 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about Long Rides
-- 📫 How to reach me: Just Ping Me
-- 😄 Pronouns: 
+- 💬 Ask me about Long Rides🏍️
+- 📫 How to reach me: Just Ping Me😎
+- 😄 Pronouns: 🤒
 - ⚡ Fun fact: Waiting for Jarvis
 <br>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
