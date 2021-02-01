@@ -14,14 +14,14 @@
 <br>
 
 ### Have a look 😄
-<!-- - 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with Machine Learning
+- 💬 Ask me about Long Rides
+- 📫 How to reach me: Just Ping Me
+- 😄 Pronouns: 
+- ⚡ Fun fact: Waiting for Jarvis
 <br>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&bg_color=90,000000,FF0000&&text_color=fff&title_color=fff&include_all_commits=true&line_height=24&custom_title=My Github" />
