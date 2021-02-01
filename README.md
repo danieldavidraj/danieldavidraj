@@ -1,6 +1,9 @@
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/">
   <img align="left" src="instagram.svg" height="30px" width="30px" />
+</a>
+<a href="https://www.facebook.com/daniel.davidraj.9">
+  <img align="left" src="facebook.svg" height="30px" width="30px" />
 </a><br>
 
 ### Have a look 😄
