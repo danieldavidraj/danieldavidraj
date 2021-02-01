@@ -1,4 +1,7 @@
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<a href="https://github.com/danieldavidraj/danieldavidraj/">
+  <img align="left" src="instagram.svg" />
+</a>
+
 ### Hi there 👋
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Machine Learning
