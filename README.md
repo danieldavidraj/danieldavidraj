@@ -19,7 +19,6 @@
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Long Rides🏍️
 - 📫 How to reach me: Just Ping Me😎
-- 😄 Pronouns: 🤒
 - ⚡ Fun fact: Bunk the class, but don't skip the portions 
 <br>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
