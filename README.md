@@ -12,5 +12,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&bg_color=0,000000,FF0000&&text_color=fff&title_color=fff&include_all_commits=true" />
 </a>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=0,FF0000,000000&&text_color=fff&title_color=fff&card_width=400&line_height=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=0,FF0000,000000&&text_color=fff&title_color=fff&card_width=400&line_height=20" />
 </a>
