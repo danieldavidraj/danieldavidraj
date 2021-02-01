@@ -8,6 +8,9 @@
 <a href="https://twitter.com/DanielDavidraj2">
   <img align="left" src="twitter.svg" height="30px" width="30px" />
 </a>
+<a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/">
+  <img align="left" src="linkedin.svg" height="30px" width="30px" />
+</a>
 <br>
 
 ### Have a look 😄
