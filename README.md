@@ -10,3 +10,4 @@
 - ⚡ Fun fact: ...-->
 [![Daniel Davidraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&theme=dark)](https://github.com/danieldavidraj/danieldavidraj/)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact)](https://github.com/danieldavidraj/danieldavidraj/)<br>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON NAME].svg" />
