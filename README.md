@@ -1,4 +1,4 @@
-### Connect with me <img src="smile.svg" height="20px" width="20px" />
+### Connect with me <img src="smile.svg" height="25px" width="25px" />
 <a href="https://www.instagram.com/daniel_davidraj_/">
   <img align="left" src="instagram.svg" height="30px" width="30px" />
 </a><br>
