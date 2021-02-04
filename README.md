@@ -13,18 +13,18 @@
 </a>
 
 ### SkillSet
-<img align="left" src="c.svg" height="60px" width="60px" />
-<img align="left" src="c++.svg" height="60px" width="60px" />
-<img align="left" src="python.svg" height="60px" width="60px" />
-<img align="left" src="html.png" height="60px" width="60px" />
-<img align="left" src="css.png" height="60px" width="60px" />
-<img align="left" src="js.png" height="60px" width="60px" />
-<img align="left" src="jquery.png" height="60px" width="60px" />
-<img align="left" src="bootstrap.png" height="60px" width="60px" />
-<img align="left" src="php.png" height="60px" width="60px" />
-<img align="left" src="ajax.jpg" height="60px" width="60px" />
-<img align="left" src="mysql.jpg" height="60px" width="60px" />
-<img align="left" src="postresql.jpg" height="60px" width="60px" />
+<img src="c.svg" height="60px" width="60px" />
+<img src="c++.svg" height="60px" width="60px" />
+<img src="python.svg" height="60px" width="60px" />
+<img src="html.png" height="60px" width="60px" />
+<img src="css.png" height="60px" width="60px" />
+<img src="js.png" height="60px" width="60px" />
+<img src="jquery.png" height="60px" width="60px" />
+<img src="bootstrap.png" height="60px" width="60px" />
+<img src="php.png" height="60px" width="60px" />
+<img src="ajax.jpg" height="60px" width="60px" />
+<img src="mysql.png" height="60px" width="60px" />
+<img src="postresql.png" height="60px" width="60px" />
 <br><br>
 
 ### Connect with me ♥️😼
