@@ -1,18 +1,3 @@
-### Connect with me ♥️😼
-<a href="https://www.instagram.com/daniel_davidraj_/">
-  <img align="left" src="instagram.svg" height="30px" width="30px" />
-</a>
-<a href="https://www.facebook.com/daniel.davidraj.9">
-  <img align="left" src="facebook.svg" height="30px" width="30px" />
-</a>
-<a href="https://twitter.com/DanielDavidraj2">
-  <img align="left" src="twitter.svg" height="30px" width="30px" />
-</a>
-<a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/">
-  <img align="left" src="linkedin.svg" height="30px" width="30px" />
-</a>
-<br>
-
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Machine Learning
@@ -26,4 +11,18 @@
 </a><br>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=90,FF0000,000000&&text_color=fff&title_color=fff&card_width=445&custom_title=Languages you can see here" />
+</a>
+
+### Connect with me ♥️😼
+<a href="https://www.instagram.com/daniel_davidraj_/">
+  <img align="left" src="instagram.svg" height="30px" width="30px" />
+</a>
+<a href="https://www.facebook.com/daniel.davidraj.9">
+  <img align="left" src="facebook.svg" height="30px" width="30px" />
+</a>
+<a href="https://twitter.com/DanielDavidraj2">
+  <img align="left" src="twitter.svg" height="30px" width="30px" />
+</a>
+<a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/">
+  <img align="left" src="linkedin.svg" height="30px" width="30px" />
 </a>
