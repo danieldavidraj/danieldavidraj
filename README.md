@@ -1,7 +1,6 @@
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Long Rides🏍️
 - 📫 How to reach me: Just Ping Me😎
 - ⚡ Fun fact: Bunk the class, but don't skip the portions 
