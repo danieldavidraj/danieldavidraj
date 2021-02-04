@@ -13,10 +13,11 @@
 </a>
 
 ### SkillSet
-<img align="left" src="c.svg" height="30px" width="30px" />
+<img align="left" src="c.svg" height="50px" width="50px" />
 <img align="left" src="c++.svg" height="30px" width="30px" />
 <img align="left" src="html.png" height="30px" width="30px" />
 <img align="left" src="linkedin.svg" height="30px" width="30px" />
+<br>
 
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/">
