@@ -1,3 +1,4 @@
+## Daniel Davidraj <img align="left" src="verified.png">
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Machine Learning
