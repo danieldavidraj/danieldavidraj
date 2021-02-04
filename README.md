@@ -1,4 +1,4 @@
-## Daniel Davidraj <img align="" src="verified.png" height="30px" width="30px">
+## Daniel Davidraj <img align="" src="verified.png" height="25px" width="25px">
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Machine Learning
