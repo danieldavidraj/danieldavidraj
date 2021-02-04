@@ -21,6 +21,8 @@
 <img align="left" src="js.png" height="60px" width="60px" />
 <img align="left" src="jquery.png" height="60px" width="60px" />
 <img align="left" src="bootstrap.png" height="60px" width="60px" />
+<img align="left" src="php.png" height="60px" width="60px" />
+<img align="left" src="ajax.jpeg" height="60px" width="60px" />
 <br><br>
 
 ### Connect with me ♥️😼
