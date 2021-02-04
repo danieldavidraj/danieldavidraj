@@ -13,12 +13,14 @@
 </a>
 
 ### SkillSet
-<img align="left" src="c.svg" height="50px" width="50px" />
-<img align="left" src="c++.svg" height="50px" width="50px" />
-<img align="left" src="python.svg" height="50px" width="50px" />
-<img align="left" src="html.png" height="50px" width="50px" />
-<img align="left" src="css.png" height="50px" width="50px" />
-<img align="left" src="js.png" height="50px" width="50px" />
+<img align="left" src="c.svg" height="60px" width="60px" />
+<img align="left" src="c++.svg" height="60px" width="60px" />
+<img align="left" src="python.svg" height="60px" width="60px" />
+<img align="left" src="html.png" height="60px" width="60px" />
+<img align="left" src="css.png" height="60px" width="60px" />
+<img align="left" src="js.png" height="60px" width="60px" />
+<img align="left" src="jquery.png" height="60px" width="60px" />
+<img align="left" src="bootstrap.png" height="60px" width="60px" />
 <br><br>
 
 ### Connect with me ♥️😼
