@@ -17,7 +17,8 @@
 <img align="left" src="c++.svg" height="50px" width="50px" />
 <img align="left" src="python.svg" height="50px" width="50px" />
 <img align="left" src="html.png" height="50px" width="50px" />
-<img align="left" src="linkedin.svg" height="50px" width="50px" />
+<img align="left" src="css.png" height="50px" width="50px" />
+<img align="left" src="js.png" height="50px" width="50px" />
 <br>
 
 ### Connect with me ♥️😼
