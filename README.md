@@ -12,6 +12,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=90,FF0000,000000&&text_color=fff&title_color=fff&card_width=445&custom_title=Languages you can see here" />
 </a>
 
+### SkillSet
+<img align="left" src="c.svg" height="30px" width="30px" />
+<img align="left" src="c++.svg" height="30px" width="30px" />
+<img align="left" src="html.png" height="30px" width="30px" />
+<img align="left" src="linkedin.svg" height="30px" width="30px" />
+
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/">
   <img align="left" src="instagram.svg" height="30px" width="30px" />
