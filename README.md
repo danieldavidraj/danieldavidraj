@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=90,FF0000,641E16&text_color=fff&title_color=fff&card_width=445&custom_title=Languages you can see here" />
 </a>
 
-### SkillSet
+### SkillSet🎓
 <img align="left" src="c.svg" height="60px" width="60px" />
 <img align="left" src="c++.svg" height="60px" width="60px" />
 <img align="left" src="python.svg" height="60px" width="60px" />
@@ -27,6 +27,7 @@
 <img align="left" src="mysql.png" height="60px" width="60px" />
 <img align="left" src="postgresql.png" height="60px" width="60px" />
 <br><br><br>
+
 
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/">
