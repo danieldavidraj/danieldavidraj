@@ -26,7 +26,7 @@
 <img align="left" src="ajax.jpg" height="60px" width="60px" />
 <img align="left" src="mysql.png" height="60px" width="60px" />
 <img align="left" src="postgresql.png" height="60px" width="60px" />
-<br><br>
+<br><br><br>
 
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/">
