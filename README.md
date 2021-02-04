@@ -19,7 +19,7 @@
 <img align="left" src="html.png" height="50px" width="50px" />
 <img align="left" src="css.png" height="50px" width="50px" />
 <img align="left" src="js.png" height="50px" width="50px" />
-<br>
+<br><br>
 
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/">
