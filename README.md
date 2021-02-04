@@ -23,6 +23,8 @@
 <img align="left" src="bootstrap.png" height="60px" width="60px" />
 <img align="left" src="php.png" height="60px" width="60px" />
 <img align="left" src="ajax.jpg" height="60px" width="60px" />
+<img align="left" src="mysql.jpg" height="60px" width="60px" />
+<img align="left" src="postresql.jpg" height="60px" width="60px" />
 <br><br>
 
 ### Connect with me ♥️😼
