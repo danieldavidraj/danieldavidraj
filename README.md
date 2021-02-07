@@ -1,7 +1,7 @@
 # Daniel Davidraj <img align="" src="verified.png" height="30px" width="30px">
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Python
 - 💬 Ask me about Long Rides🏍️
 - 📫 How to reach me: Just Ping Me😎
 - ⚡ Fun fact: Bunk the class, but don't skip the portions 
