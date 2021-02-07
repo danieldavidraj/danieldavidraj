@@ -1,5 +1,4 @@
 # Daniel Davidraj <img align="" src="verified.png" height="30px" width="30px">
-<div>
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Python
@@ -7,8 +6,6 @@
 - 📫 How to reach me: Just Ping Me😎
 - ⚡ Fun fact: Bunk the class, but don't skip the portions 
 <br>
-
-</div>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&bg_color=0,641E16,FF0000&text_color=fff&title_color=fff&include_all_commits=true&line_height=24&custom_title=My Github" />
 </a><br>
