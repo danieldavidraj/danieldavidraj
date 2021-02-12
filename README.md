@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&bg_color=0,000000,FF0000&text_color=fff&title_color=fff&include_all_commits=true&line_height=24&custom_title=My Github" />
 </a><br>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=0,641E16,FF0000&text_color=fff&title_color=fff&card_width=445&custom_title=Languages you can see here" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=0,000000,FF0000&text_color=fff&title_color=fff&card_width=445&custom_title=Languages you can see here" />
 </a>
 
 ### SkillSet🎓
