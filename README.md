@@ -2,7 +2,7 @@
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Python
-- 💬 Ask me about Long Rides🏍️
+- 💬 Don’t ask me about Theory Classes
 - 📫 How to reach me: Just Ping Me😎
 - ⚡ Fun fact: Bunk the class, but don't skip the portions 
 <br>
