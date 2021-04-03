@@ -27,6 +27,8 @@
 <img align="left" src="mysql.png" height="60px" width="60px" />
 <img src="postgresql.png" height="60px" width="60px" />
 <img src="matlab.png" height="60px" width="60px" />
+<img src="gcloud.png" height="60px" width="60px" />
+<img src="aws.png" height="60px" width="60px" />
 
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/">
