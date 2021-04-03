@@ -25,9 +25,9 @@
 <img align="left" src="php.png" height="60px" width="60px" />
 <img align="left" src="ajax.jpg" height="60px" width="60px" />
 <img align="left" src="mysql.png" height="60px" width="60px" />
-<img src="postgresql.png" height="60px" width="60px" />
-<img src="matlab.png" height="60px" width="60px" />
-<img src="g.png" height="60px" width="60px" />
+<img align="left" src="postgresql.png" height="60px" width="60px" />
+<img align="left" src="matlab.png" height="60px" width="60px" />
+<img align="left" src="g.png" height="60px" width="60px" />
 <img src="aws.png" height="60px" width="60px" />
 
 ### Connect with me ♥️😼
