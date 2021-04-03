@@ -31,15 +31,15 @@
 <img src="aws.png" height="60px" width="60px" />
 
 ### Connect with me ♥️😼
-<a href="https://www.instagram.com/daniel_davidraj_/">
+<a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
   <img align="left" src="instagram.svg" height="30px" width="30px" />
 </a>
-<a href="https://www.facebook.com/daniel.davidraj.9">
+<a href="https://www.facebook.com/daniel.davidraj.9" target="_blank">
   <img align="left" src="facebook.svg" height="30px" width="30px" />
 </a>
-<a href="https://twitter.com/DanielDavidraj2">
+<a href="https://twitter.com/DanielDavidraj2" target="_blank">
   <img align="left" src="twitter.svg" height="30px" width="30px" />
 </a>
-<a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/">
+<a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/" target="_blank">
   <img align="left" src="linkedin.svg" height="30px" width="30px" />
 </a>
