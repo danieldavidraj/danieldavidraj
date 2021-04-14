@@ -17,6 +17,7 @@
 <img align="left" src="c.svg" height="60px" width="60px" />
 <img align="left" src="c++.svg" height="60px" width="60px" />
 <img align="left" src="python.svg" height="60px" width="60px" />
+<img align="left" src="django.png" height="60px" width="60px" />
 <img align="left" src="html.png" height="60px" width="60px" />
 <img align="left" src="css.png" height="60px" width="60px" />
 <img align="left" src="js.png" height="60px" width="60px" />
