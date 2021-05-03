@@ -42,7 +42,7 @@
 
 ### Connect with me ♥️😼
 <a href="https://twitter.com/DanielDavidraj2" target="_blank">
-  <img align="left" src="https://img.shields.io/static/v1?style=for-the-badge&label=follow me on&logo=Twitter&message=Twitter&color=1DA1F2">
+  <img align="left" src="https://img.shields.io/static/v1?style=for-the-badge&label=follow me on&logo=Twitter&message=Twitter&color=1da1f2">
 </a>
 <a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
   <img align="left" src="instagram.svg" height="30px" width="30px" />
