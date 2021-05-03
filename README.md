@@ -32,7 +32,7 @@
 <img src="aws.png" height="60px" width="60px" />
 
 ### Connect with me ♥️😼
-<div>
+<p>
 <a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
   <img align="left" src="instagram.svg" height="30px" width="30px" />
 </a>
@@ -45,6 +45,6 @@
 <a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/" target="_blank">
   <img align="left" src="linkedin.svg" height="30px" width="30px" />
 </a>
-</div>
+</p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ppvalluri09&" alt="ppvalluri09" />
