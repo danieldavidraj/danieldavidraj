@@ -41,7 +41,9 @@
 <img src="aws.png" height="60px" width="60px" />
 
 ### Connect with me ♥️😼
-<img align="left" src="https://img.shields.io/static/v1?style=for-the-badge&label=healthinesses&logo=Twitter&message=Twitter&color=orange">
+<a href="https://twitter.com/DanielDavidraj2" target="_blank">
+  <img align="left" src="https://img.shields.io/static/v1?style=for-the-badge&label=healthinesses&logo=Twitter&message=Twitter&color=orange">
+</a>
 <a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
   <img align="left" src="instagram.svg" height="30px" width="30px" />
 </a>
