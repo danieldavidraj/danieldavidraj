@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=follow+me+on&logo=LinkedIn&message=LinkedIn&color=0A66C2&logoColor=0A66C2&logoWidth=40">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=follow+me+on&logo=LinkedIn&message=LinkedIn&color=0A66C2&logoColor=0A66C2">
 </a>
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldavidraj" alt="danieldavidraj" />
