@@ -3,13 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=danieldavidraj&color=orange&style=plastic)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldavidraj" alt="danieldavidraj" /></a>
+
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Python
 - 💬 Don’t ask me about Theory Classes
 - 📫 How to reach me: Just Ping Me😎
 - ⚡ Fun fact: Bunk the class, but don't skip the portions 
-<br>
+
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&bg_color=0,000000,FF0000&text_color=fff&title_color=fff&include_all_commits=true&line_height=24&custom_title=My Github" />
 </a><br>
