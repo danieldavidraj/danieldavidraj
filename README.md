@@ -45,4 +45,4 @@
   <img align="left" src="linkedin.svg" height="30px" width="30px" />
 </a>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldavidraj" alt="danieldavidraj" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldavidraj" alt="danieldavidraj" />
