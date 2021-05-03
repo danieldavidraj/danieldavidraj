@@ -57,4 +57,4 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=follow+me+on&logo=LinkedIn&message=LinkedIn&color=0A66C2&logoColor=0A66C2">
 </a>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldavidraj" alt="danieldavidraj" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieldavidraj)](https://git.io/streak-stats)
