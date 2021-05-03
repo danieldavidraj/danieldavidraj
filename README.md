@@ -1,4 +1,5 @@
 # Daniel Davidraj <img align="" src="verified.png" height="30px" width="30px">
+![](https://komarev.com/ghpvc/?username=danieldavidraj)
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Python
@@ -39,7 +40,7 @@
   <img align="left" src="facebook.svg" height="30px" width="30px" />
 </a>
 <a href="https://twitter.com/DanielDavidraj2" target="_blank">
-  <img align="left" src="twitter.svg" height="30px" width="30px" />
+  <img src="twitter.svg" height="30px" width="30px" />
 </a>
 <a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/" target="_blank">
   <img align="left" src="linkedin.svg" height="30px" width="30px" />
