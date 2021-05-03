@@ -45,7 +45,7 @@
   <img align="left" src="https://img.shields.io/static/v1?style=for-the-badge&label=follow+me+on&logo=Twitter&message=Twitter&color=1DA1F2">
 </a>
 <a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
-  <img align="left" src="https://img.shields.io/static/v1?style=for-the-badge&label=follow+me+on&logo=Twitter&message=Instagram&color=E4405F">
+  <img align="left" src="https://img.shields.io/static/v1?style=for-the-badge&label=follow+me+on&logo=Instagram&message=Instagram&color=E4405F">
 </a>
 <a href="https://www.facebook.com/daniel.davidraj.9" target="_blank">
   <img align="left" src="facebook.svg" height="30px" width="30px" />
