@@ -49,5 +49,5 @@
 <a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/" target="_blank">
   <img align="left" src="linkedin.svg" height="30px" width="30px" />
 </a>
-<br>
+
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldavidraj" alt="danieldavidraj" />
