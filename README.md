@@ -36,6 +36,7 @@
 <img align="left" src="ajax.jpg" height="60px" width="60px" />
 <img align="left" src="mysql.png" height="60px" width="60px" />
 <img align="left" src="postgresql.png" height="60px" width="60px" />
+<img align="left" src="redis.png" height="60px" width="60px" />
 <img align="left" src="matlab.png" height="60px" width="60px" />
 <img align="left" src="gcloud.png" height="60px" width="60px" />
 <img src="aws.png" height="60px" width="60px" />
