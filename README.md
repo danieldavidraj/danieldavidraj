@@ -1,5 +1,7 @@
 # Daniel Davidraj <img align="" src="verified.png" height="30px" width="30px">
+
 ![](https://komarev.com/ghpvc/?username=danieldavidraj&color=orange&style=plastic)
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldavidraj" alt="danieldavidraj" /></a>
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
