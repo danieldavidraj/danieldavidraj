@@ -23,11 +23,21 @@
 </a>
 
 ### SkillSet🎓
-<img align="left" src="c.svg" height="60px" width="60px" />
-<img align="left" src="c++.svg" height="60px" width="60px" />
-<img align="left" src="python.svg" height="60px" width="60px" />
-<img align="left" src="django.png" height="60px" width="60px" />
-<img align="left" src="html.png" height="60px" width="60px" />
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img align="left" src="c.svg" height="60px" width="60px" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img align="left" src="c++.svg" height="60px" width="60px" />
+</a>
+<a href="https://www.python.org/">
+  <img align="left" src="python.svg" height="60px" width="60px" />
+</a>
+<a href=https://www.djangoproject.com/">
+  <img align="left" src="django.png" height="60px" width="60px" />
+</a>
+<a href="https://en.wikipedia.org/wiki/HTML">
+  <img align="left" src="html.png" height="60px" width="60px" />
+</a>
 <img align="left" src="css.png" height="60px" width="60px" />
 <img align="left" src="js.png" height="60px" width="60px" />
 <img align="left" src="jquery.png" height="60px" width="60px" />
@@ -39,7 +49,15 @@
 <img align="left" src="redis.png" height="60px" width="60px" />
 <img align="left" src="matlab.png" height="60px" width="60px" />
 <img align="left" src="gcloud.png" height="60px" width="60px" />
-<img src="aws.png" height="60px" width="60px" />
+<a href="https://marketingplatform.google.com/about/tag-manager/">
+  <img align="left" src="tag.png" height="60px" width="60px" />
+</a>
+<a href="https://marketingplatform.google.com/about/tag-manager/">                                                            
+  <img align="left" src="aws.png" height="60px" width="60px" />
+</a>
+<a href="https://www.docker.com/">                                                            
+  <img src="docker.png" height="60px" width="60px" />
+</a>                                          
 
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
