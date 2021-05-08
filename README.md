@@ -73,6 +73,9 @@
 </a>
 <a href="https://www.mathworks.com/products/matlab.html">   
   <img align="left" src="matlab.png" height="60px" width="60px" />
+</a>
+<a href="https://www.r-project.org/">   
+  <img align="left" src="R.svg" height="60px" width="60px" />
 </a> 
 <a href="https://cloud.google.com/">                                                                
   <img align="left" src="gcloud.png" height="60px" width="60px" />
