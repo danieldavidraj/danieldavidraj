@@ -101,6 +101,9 @@
 <a href="https://www.postman.com/">                                                            
   <img align="left" src="postman.png" height="60px" width="60px" />
 </a>
+<a href="https://git-scm.com/">                                                            
+  <img align="left" src="git.png" height="60px" width="60px" />
+</a>
 <a href="https://www.docker.com/">                                                            
   <img src="docker.png" height="50px" width="70px" />
 </a>                                          
