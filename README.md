@@ -76,7 +76,10 @@
 </a>
 <a href="https://www.r-project.org/">   
   <img align="left" src="R.svg" height="60px" width="60px" />
-</a> 
+</a>
+<a href="https://www.apachefriends.org/index.html">   
+  <img align="left" src="xampp.svg" height="60px" width="60px" />
+</a>
 <a href="https://cloud.google.com/">                                                                
   <img align="left" src="gcloud.png" height="60px" width="60px" />
 </a>
