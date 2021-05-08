@@ -38,17 +38,39 @@
 <a href="https://en.wikipedia.org/wiki/HTML">
   <img align="left" src="html.png" height="60px" width="60px" />
 </a>
-<img align="left" src="css.png" height="60px" width="60px" />
-<img align="left" src="js.png" height="60px" width="60px" />
-<img align="left" src="jquery.png" height="60px" width="60px" />
-<img align="left" src="bootstrap.png" height="60px" width="60px" />
-<img align="left" src="php.png" height="60px" width="60px" />
-<img align="left" src="ajax.jpg" height="60px" width="60px" />
-<img align="left" src="mysql.png" height="60px" width="80px" />
-<img align="left" src="postgresql.png" height="60px" width="60px" />
-<img align="left" src="redis.png" height="60px" width="60px" />
-<img align="left" src="matlab.png" height="60px" width="60px" />
-<img align="left" src="gcloud.png" height="60px" width="60px" />
+<a href="https://en.wikipedia.org/wiki/CSS">                                                             
+  <img align="left" src="css.png" height="60px" width="60px" />
+</a>    
+<a href="https://www.javascript.com/">                                                              
+  <img align="left" src="js.png" height="60px" width="60px" />
+</a>   
+<a href="https://jquery.com/">                                                            
+  <img align="left" src="jquery.png" height="60px" width="60px" />
+</a>
+<a href="https://getbootstrap.com/">                                                               
+  <img align="left" src="bootstrap.png" height="60px" width="60px" />
+</a>
+<a href="https://www.php.net/">                                                                  
+  <img align="left" src="php.png" height="60px" width="60px" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Ajax_(programming)">
+  <img align="left" src="ajax.jpg" height="60px" width="60px" />
+</a>                                                                                              
+<a href="https://www.mysql.com/">                                                           
+  <img align="left" src="mysql.png" height="60px" width="80px" />
+</a>
+<a href="https://www.postgresql.org/">                                                                 
+  <img align="left" src="postgresql.png" height="60px" width="60px" />
+</a>                                                                   
+<a href="https://redis.io/">                                                                      
+  <img align="left" src="redis.png" height="60px" width="60px" />
+</a>                                                            
+<a href="https://www.mathworks.com/products/matlab.html">   
+  <img align="left" src="matlab.png" height="60px" width="60px" />
+</a> 
+<a href="https://cloud.google.com/">                                                                
+  <img align="left" src="gcloud.png" height="60px" width="60px" />
+</a>                                                             
 <a href="https://marketingplatform.google.com/about/tag-manager/">
   <img align="left" src="tag.png" height="60px" width="60px" />
 </a>
