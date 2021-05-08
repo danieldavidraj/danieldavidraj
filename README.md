@@ -35,6 +35,9 @@
 <a href=https://www.djangoproject.com/">
   <img align="left" src="django.png" height="60px" width="60px" />
 </a>
+<a href=https://www.django-rest-framework.org/">
+  <img align="left" src="rest.png" height="60px" width="60px" />
+</a>                                                               
 <a href="https://en.wikipedia.org/wiki/HTML">
   <img align="left" src="html.png" height="60px" width="60px" />
 </a>
