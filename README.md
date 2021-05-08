@@ -75,13 +75,13 @@
   <img align="left" src="gcloud.png" height="60px" width="60px" />
 </a>                                                             
 <a href="https://marketingplatform.google.com/about/tag-manager/">
-  <img align="left" src="tag.png" height="60px" width="60px" />
+  <img align="left" src="tag.png" height="55px" width="55px" />
 </a>
 <a href="https://marketingplatform.google.com/about/tag-manager/">                                                            
   <img align="left" src="aws.png" height="55px" width="55px" />
 </a>
 <a href="https://www.docker.com/">                                                            
-  <img src="docker.png" height="55px" width="70px" />
+  <img src="docker.png" height="50px" width="70px" />
 </a>                                          
 
 ### Connect with me ♥️😼
