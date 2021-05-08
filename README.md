@@ -69,7 +69,7 @@
   <img align="left" src="redis.png" height="60px" width="60px" />
 </a> 
 <a href="https://www.sqlite.org/index.html">                                                                      
-  <img align="left" src="sqlite.png" height="60px" width="80px" />
+  <img align="left" src="sqlite.png" height="60px" width="60px" />
 </a>
 <a href="https://www.mathworks.com/products/matlab.html">   
   <img align="left" src="matlab.png" height="60px" width="60px" />
