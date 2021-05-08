@@ -81,7 +81,7 @@
   <img align="left" src="gcloud.png" height="60px" width="60px" />
 </a>
 <a href="https://analytics.google.com/">                                                                
-  <img align="left" src="ganay.png" height="60px" width="60px" />
+  <img align="left" src="Google-Analytics-icon.png" height="60px" width="60px" />
 </a> 
 <a href="https://marketingplatform.google.com/about/tag-manager/">
   <img align="left" src="tag.png" height="55px" width="55px" />
