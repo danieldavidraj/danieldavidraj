@@ -83,8 +83,14 @@
 <a href="https://marketingplatform.google.com/about/tag-manager/">
   <img align="left" src="tag.png" height="55px" width="55px" />
 </a>
-<a href="https://marketingplatform.google.com/about/tag-manager/">                                                            
-  <img align="left" src="aws.png" height="55px" width="55px" />
+<a href="https://aws.amazon.com/">                                                            
+  <img align="left" src="aws.png" height="60px" width="60px" />
+</a>
+<a href="https://sendgrid.com/">                                                            
+  <img align="left" src="sendgrid.png" height="60px" width="60px" />
+</a>
+<a href="https://www.mailjet.com/">                                                            
+  <img align="left" src="mailjet.png" height="60px" width="60px" />
 </a>
 <a href="https://www.docker.com/">                                                            
   <img src="docker.png" height="50px" width="70px" />
