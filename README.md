@@ -95,6 +95,9 @@
 <a href="https://www.mailjet.com/">                                                            
   <img align="left" src="mailjet.png" height="60px" width="60px" />
 </a>
+<a href="https://www.postman.com/">                                                            
+  <img align="left" src="postman.png" height="60px" width="60px" />
+</a>
 <a href="https://www.docker.com/">                                                            
   <img src="docker.png" height="50px" width="70px" />
 </a>                                          
