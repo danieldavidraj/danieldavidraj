@@ -7,7 +7,7 @@
 ### Have a look 😜
 - 🔭 I’m currently working on Web Development
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React, Angular
 
 - 💬 Don’t ask me about Theory Classes
 
