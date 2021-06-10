@@ -31,7 +31,7 @@
 **Frameworks** | <a href="https://www.djangoproject.com/"><img align="left" src="django.png" height="60px" width="60px" /></a><a href="https://www.django-rest-framework.org/"><img align="left" src="rest.jpg" height="50px" width="80px" /></a><a href="https://reactjs.org/"><img align="left" src="react.png" height="60px" width="60px" /></a><a href="https://getbootstrap.com/"><img align="left" src="bootstrap.png" height="50px" width="60px" /></a> |
 **Libraries** | <a href="https://jquery.com/"><img align="left" src="jquery.png" height="60px" width="60px" /></a>|
 **Toolkits** | <a href="https://www.docker.com/"><img src="docker.png" height="50px" width="70px" /></a><a href="https://www.postman.com/"><img align="left" src="postman.png" height="60px" width="60px" /></a><a href="https://git-scm.com/"><img align="left" src="git.png" height="60px" width="60px" /></a> |
-**Cloud Services** | <a href="https://cloud.google.com/"><img align="left" src="gcloud.png" height="60px" width="60px" /></a><a href="https://aws.amazon.com/"><img align="left" src="aws.png" height="60px" width="60px" /></a> |
+**Cloud Services** | <a href="https://cloud.google.com/"><img align="left" src="gcloud.png" height="60px" width="60px" /></a><a href="https://aws.amazon.com/"><img align="left" src="aws.png" height="60px" width="60px" /></a><a href="https://www.heroku.com"><img align="left" src="heroku.png" height="60px" width="60px" /></a> |
 **Analytics** | <a href="https://analytics.google.com/"><img align="left" src="Google-Analytics-icon.png" height="60px" width="60px" /></a> <a href="https://marketingplatform.google.com/about/tag-manager/"><img align="left" src="tag.png" height="55px" width="55px" /></a> |
 
 ### Connect with me ♥️😼
