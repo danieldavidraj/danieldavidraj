@@ -1,4 +1,4 @@
-# Daniel Davidraj <img align="" src="verified.png" height="30px" width="30px">
+# Daniel Davidraj <img align="" src="verified.png" height="20px" width="20px">
 
 ![](https://komarev.com/ghpvc/?username=danieldavidraj&color=orange&style=flat-square)
 
