@@ -102,8 +102,7 @@
 
 | | **Tools** |
 --- | ---
-**Programming Language** | 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+**Programming Language** | <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img align="left" src="c.svg" height="60px" width="60px" />
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
