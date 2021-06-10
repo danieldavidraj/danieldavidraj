@@ -24,12 +24,7 @@
 
 ### SkillSet🎓
 
-<a href=https://www.djangoproject.com/">
-  <img align="left" src="django.png" height="60px" width="60px" />
-</a>
-<a href=https://www.django-rest-framework.org/">
-  <img align="left" src="rest.jpg" height="50px" width="80px" />
-</a>                                                               
+                                                    
 <a href="https://en.wikipedia.org/wiki/HTML">
   <img align="left" src="html.png" height="60px" width="60px" />
 </a>
@@ -40,17 +35,13 @@
 <a href="https://jquery.com/">                                                            
   <img align="left" src="jquery.png" height="60px" width="60px" />
 </a>
-<a href="https://getbootstrap.com/">                                                               
-  <img align="left" src="bootstrap.png" height="60px" width="60px" />
-</a>
+
 
 <a href="https://en.wikipedia.org/wiki/Ajax_(programming)">
   <img align="left" src="ajax.jpg" height="60px" width="60px" />
 </a>                                                                                              
 
-<a href="https://www.sqlite.org/index.html">                                                                      
-  <img align="left" src="sqlite.png" height="60px" width="60px" />
-</a>
+
 <a href="https://www.mathworks.com/products/matlab.html">   
   <img align="left" src="matlab.png" height="60px" width="60px" />
 </a>
@@ -90,9 +81,10 @@
 
 | | **Tools** |
 | --- | --- |
-| **Programming Language** | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="c.svg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" src="c++.svg" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="python.svg" height="60px" width="60px" /></a><a href="https://www.javascript.com/"><img align="left" src="js.png" height="60px" width="60px" /></a><a href="https://www.php.net/"><img align="left" src="php.png" height="60px" width="60px" /></a> |
-| **Databases** | <a href="https://www.mysql.com/"><img align="left" src="mysql.png" height="60px" width="80px" /></a><a href="https://www.postgresql.org/"><img align="left" src="postgresql.png" height="60px" width="60px" /></a><a href="https://redis.io/"><img align="left" src="redis.png" height="60px" width="60px" /></a> |
-**Frameworks & Libraries** | <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img align="left" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+| **Programming Languages** | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="c.svg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" src="c++.svg" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="python.svg" height="60px" width="60px" /></a><a href="https://www.javascript.com/"><img align="left" src="js.png" height="60px" width="60px" /></a><a href="https://www.php.net/"><img align="left" src="php.png" height="60px" width="60px" /></a> |
+| **Databases** | <a href="https://www.mysql.com/"><img align="left" src="mysql.png" height="60px" width="80px" /></a><a href="https://www.postgresql.org/"><img align="left" src="postgresql.png" height="60px" width="60px" /></a><a href="https://redis.io/"><img align="left" src="redis.png" height="60px" width="60px" /></a><a href="https://www.sqlite.org/index.html"><img align="left" src="sqlite.png" height="60px" width="60px" /></a> |
+**Frameworks** | <a href=https://www.djangoproject.com/"><img align="left" src="django.png" height="60px" width="60px" /></a><a href=https://www.django-rest-framework.org/"><img align="left" src="rest.jpg" height="50px" width="80px" /></a><a href="https://getbootstrap.com/"><img align="left" src="bootstrap.png" height="60px" width="60px" /></a> |
+**Libraries** | |
 **Toolkits & Platforms** | <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" /> 
 **Cloud Services** | <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> 
 **Design & Prototype** | <img align="left" alt="Figma" width="26px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" /> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
