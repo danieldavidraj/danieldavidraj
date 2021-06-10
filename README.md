@@ -47,15 +47,7 @@
 <a href="https://en.wikipedia.org/wiki/Ajax_(programming)">
   <img align="left" src="ajax.jpg" height="60px" width="60px" />
 </a>                                                                                              
-<a href="https://www.mysql.com/">                                                           
-  <img align="left" src="mysql.png" height="60px" width="80px" />
-</a>
-<a href="https://www.postgresql.org/">                                                                 
-  <img align="left" src="postgresql.png" height="60px" width="60px" />
-</a>                                                                   
-<a href="https://redis.io/">                                                                      
-  <img align="left" src="redis.png" height="60px" width="60px" />
-</a> 
+
 <a href="https://www.sqlite.org/index.html">                                                                      
   <img align="left" src="sqlite.png" height="60px" width="60px" />
 </a>
@@ -99,7 +91,7 @@
 | | **Tools** |
 | --- | --- |
 | **Programming Language** | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="c.svg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" src="c++.svg" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="python.svg" height="60px" width="60px" /></a><a href="https://www.javascript.com/"><img align="left" src="js.png" height="60px" width="60px" /></a><a href="https://www.php.net/"><img align="left" src="php.png" height="60px" width="60px" /></a> |
-**Databases** | <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /><img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+| **Databases** | <a href="https://www.mysql.com/"><img align="left" src="mysql.png" height="60px" width="80px" /></a><a href="https://www.postgresql.org/"><img align="left" src="postgresql.png" height="60px" width="60px" /></a><a href="https://redis.io/"><img align="left" src="redis.png" height="60px" width="60px" /></a> |
 **Frameworks & Libraries** | <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img align="left" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 **Toolkits & Platforms** | <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" /> 
 **Cloud Services** | <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> 
