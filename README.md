@@ -33,33 +33,17 @@
 </a>                                                                                                
 
 
-<a href="https://www.apachefriends.org/index.html">   
-  <img align="left" src="xampp.png" height="60px" width="60px" />
-</a>
-<a href="https://cloud.google.com/">                                                                
-  <img align="left" src="gcloud.png" height="60px" width="60px" />
-</a>
-<a href="https://analytics.google.com/">                                                                
-  <img align="left" src="Google-Analytics-icon.png" height="60px" width="60px" />
-</a> 
-<a href="https://marketingplatform.google.com/about/tag-manager/">
-  <img align="left" src="tag.png" height="55px" width="55px" />
-</a>
-<a href="https://aws.amazon.com/">                                                            
-  <img align="left" src="aws.png" height="60px" width="60px" />
-</a>
-
                                          
 
 | | **Tools** |
 | --- | --- |
-| **Programming Languages** | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="c.svg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" src="c++.svg" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="python.svg" height="60px" width="60px" /></a><a href="https://www.javascript.com/"><img align="left" src="js.png" height="60px" width="60px" /></a><a href="https://www.php.net/"><img align="left" src="php.png" height="60px" width="60px" /></a><a href="https://www.mathworks.com/products/matlab.html"><img align="left" src="matlab.png" height="60px" width="60px" /></a><a href="https://www.r-project.org/"><img align="left" src="R.svg" height="60px" width="60px" /></a> |
+| **Languages** | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="c.svg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" src="c++.svg" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="python.svg" height="60px" width="60px" /></a><a href="https://www.javascript.com/"><img align="left" src="js.png" height="60px" width="60px" /></a><a href="https://www.php.net/"><img align="left" src="php.png" height="60px" width="60px" /></a><a href="https://www.mathworks.com/products/matlab.html"><img align="left" src="matlab.png" height="60px" width="60px" /></a><a href="https://www.r-project.org/"><img align="left" src="R.svg" height="60px" width="60px" /></a> |
 | **Databases** | <a href="https://www.mysql.com/"><img align="left" src="mysql.png" height="60px" width="80px" /></a><a href="https://www.postgresql.org/"><img align="left" src="postgresql.png" height="60px" width="60px" /></a><a href="https://redis.io/"><img align="left" src="redis.png" height="60px" width="60px" /></a><a href="https://www.sqlite.org/index.html"><img align="left" src="sqlite.png" height="60px" width="60px" /></a> |
 **Frameworks** | <a href="https://www.djangoproject.com/"><img align="left" src="django.png" height="60px" width="60px" /></a><a href="https://www.django-rest-framework.org/"><img align="left" src="rest.jpg" height="50px" width="80px" /></a><a href="https://getbootstrap.com/"><img align="left" src="bootstrap.png" height="50px" width="60px" /></a> |
 **Libraries** | <a href="https://jquery.com/"><img align="left" src="jquery.png" height="60px" width="60px" /></a>|
 **Toolkits** | <a href="https://www.docker.com/"><img src="docker.png" height="50px" width="70px" /></a><a href="https://www.postman.com/"><img align="left" src="postman.png" height="60px" width="60px" /></a><a href="https://git-scm.com/"><img align="left" src="git.png" height="60px" width="60px" /></a> |
-**Cloud Services** | <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /> 
-**Design & Prototype** | <img align="left" alt="Figma" width="26px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" /> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+**Cloud Services** | <a href="https://cloud.google.com/"><img align="left" src="gcloud.png" height="60px" width="60px" /></a><a href="https://aws.amazon.com/"><img align="left" src="aws.png" height="60px" width="60px" /></a> |
+**Analytics** | <a href="https://analytics.google.com/"><img align="left" src="Google-Analytics-icon.png" height="60px" width="60px" /></a> <a href="https://marketingplatform.google.com/about/tag-manager/"><img align="left" src="tag.png" height="55px" width="55px" /></a> |
 
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
