@@ -11,8 +11,6 @@
 
 - 💬 Don’t ask me about Theory Classes
 
-- 📫 How to reach me: Just Ping Me😎
-
 - ⚡ Fun fact: Bunk the class, but don't skip the portions 
 
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
