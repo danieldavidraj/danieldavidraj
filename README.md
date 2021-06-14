@@ -30,7 +30,7 @@
 **Libraries** | <a href="https://jquery.com/"><img align="left" src="jquery.png" height="60px" width="60px" /></a><a href="https://reactjs.org/"><img align="left" src="react.png" height="60px" width="60px" /></a><a href="https://redux.js.org/"><img align="left" src="redux.png" height="50px" width="60px" /></a> |
 **Toolkits** | <a href="https://www.docker.com/"><img src="docker.png" height="50px" width="70px" /></a><a href="https://www.postman.com/"><img align="left" src="postman.png" height="60px" width="60px" /></a><a href="https://git-scm.com/"><img align="left" src="git.png" height="60px" width="60px" /></a> |
 **Cloud Services** | <a href="https://cloud.google.com/"><img align="left" src="gcloud.png" height="60px" width="60px" /></a><a href="https://aws.amazon.com/"><img align="left" src="aws.png" height="60px" width="60px" /></a><a href="https://www.heroku.com"><img align="left" src="heroku.png" height="60px" width="60px" /></a> |
-**Platforms** | <a href="https://www.microsoft.com/en-in/windows"><img align="left" src="windows.png" height="60px" width="60px" /></a> <a href="https://www.linux.org/"><img align="left" src="linux.png" height="55px" width="55px" /></a> |
+**Platforms** | <a href="https://www.microsoft.com/en-in/windows"><img align="left" src="windows.png" height="60px" width="60px" /></a> <a href="https://www.linux.org/"><img align="left" src="linux.jpg" height="55px" width="55px" /></a> |
 
 ### Connect with me ♥️😼
 <a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
