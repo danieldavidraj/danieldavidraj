@@ -1,9 +1,9 @@
 # Daniel Davidraj <img align="" src="verified.png" height="20px" width="20px">
 
 ![](https://komarev.com/ghpvc/?username=danieldavidraj&color=orange&style=flat-square)
+<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40" height="40">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldavidraj" alt="danieldavidraj" /></a>
-<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40" height="40">
 
 ### Have a look 😜
 - 🔭 I’m currently working on Full Stack Web Development
