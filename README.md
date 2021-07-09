@@ -5,12 +5,10 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldavidraj" alt="danieldavidraj" /></a>
 
-### Have a look 😜
+### Have a look
 - 🔭 I’m currently working on Full Stack Web Development
 
-- 🌱 I’m currently learning React, Angular
-
-- 💬 Don’t ask me about Theory Classes
+- 🌱 I’m currently learning MS Paint 😜
 
 - ⚡ Fun fact: Bunk the class, but don't skip the portions 
 
