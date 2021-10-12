@@ -7,7 +7,7 @@
 ### Have a look
 - 🔭 I’m currently working on Full Stack Web Development
 
-- 🌱 I’m currently learning MS Paint 😜
+- 🌱 I’m currently learning Machine Learning
 
 - ⚡ Fun fact: Bunk the class, but don't skip the portions 
 
