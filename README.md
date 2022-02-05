@@ -17,6 +17,7 @@
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=0,000000,FF0000&text_color=fff&title_color=fff&card_width=445&custom_title=Languages you can see here" />
 </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieldavidraj)](https://git.io/streak-stats)
 
 ### SkillSet🎓
                                     
@@ -47,5 +48,3 @@
 <a href="https://www.linkedin.com/in/daniel-davidraj-41058a18a/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=follow+me+on&logo=LinkedIn&message=LinkedIn&color=0A66C2&logoColor=0A66C2">
 </a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieldavidraj)](https://git.io/streak-stats)
