@@ -17,6 +17,7 @@
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=0,000000,FF0000&text_color=fff&title_color=fff&card_width=445&custom_title=Languages you can see here" />
 </a>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieldavidraj)](https://git.io/streak-stats)
 
 ### SkillSet🎓
