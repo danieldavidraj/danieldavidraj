@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=danieldavidraj&color=orange&style=flat-square)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj?margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Have a look
 - 🔭 I’m currently working on Full Stack Web Development
