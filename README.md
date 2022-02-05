@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&theme=buefy&card_width=445&custom_title=Languages you can see here" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danieldavidraj&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danieldavidraj&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### SkillSet🎓
                                     
