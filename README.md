@@ -15,10 +15,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&theme=buefy&include_all_commits=true&line_height=24&custom_title=My Github" />
 </a><br>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&bg_color=0,000000,FF0000&text_color=fff&title_color=fff&card_width=445&custom_title=Languages you can see here" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&theme=buefy&card_width=445&custom_title=Languages you can see here" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danieldavidraj&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danieldavidraj&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### SkillSet🎓
                                     
