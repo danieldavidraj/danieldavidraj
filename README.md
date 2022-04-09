@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Have a look
-- 🔭 I’m currently working on Full Stack Web Development
+- 🔭 I’m currently working on Full Stack Development
 
 - 🌱 I’m currently learning Machine Learning
 
