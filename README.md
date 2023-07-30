@@ -1,21 +1,20 @@
-# Daniel Davidraj <img align="" src="images/verified.png" height="20px" width="20px">
+<img align="right" src="https://komarev.com/ghpvc/?username=danieldavidraj&color=orange&style=flat-square">
+
+<h2> Hi, I'm Daniel Davidraj! 👨🏼‍💻</h2>
+
+<p>A passionate, dedicated and enthusiastic fresh university graduate who possesses strong computer and interpersonal skills.</p>
 
 ![gitartwork](gitartwork.svg)
 
-![](https://komarev.com/ghpvc/?username=danieldavidraj&color=orange&style=flat-square)
+<h3>My Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Have a look
-- 🔭 I’m currently working on Full Stack Development
+<h3>My Stats</h3>
 
-- 🌱 I’m currently learning Machine Learning
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danieldavidraj&show_icons=true&theme=buefy&include_all_commits=true&line_height=24)](https://git.io/streak-stats)
 
-- ⚡ Fun fact: Bunk the class, but don't skip the portions 
-
-<a href="https://github.com/danieldavidraj/danieldavidraj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldavidraj&show_icons=true&theme=buefy&include_all_commits=true&line_height=24&custom_title=My Github" />
-</a><br>
+<br>
 <a href="https://github.com/danieldavidraj/danieldavidraj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&theme=buefy&card_width=445&custom_title=Languages you can see here" />
 </a>
@@ -35,7 +34,7 @@
 **Cloud Services** | <a href="https://aws.amazon.com/"><img align="left" src="images/aws.png" height="60px" width="60px" /></a><a href="https://www.heroku.com"><img align="left" src="images/heroku.png" height="60px" width="60px" /></a><a href="https://cloud.google.com/"><img align="left" src="images/gcloud.png" height="60px" width="60px" /></a><a href="https://azure.microsoft.com/en-in/"><img align="left" src="images/azure.jpg" height="60px" width="60px" /></a> |
 **Platforms** | <a href="https://www.microsoft.com/en-in/windows"><img align="left" src="images/windows.png" height="60px" width="60px" /></a><a href="https://www.linux.org/"><img align="left" src="images/linux.jpg" height="60px" width="60px" /></a> |
 
-### Connect with me ♥️😼
+### Connect with me 😼
 <a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=follow+me+on&logo=Instagram&message=Instagram&color=E4405F">
 </a>
