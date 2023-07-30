@@ -6,20 +6,42 @@
 
 ![gitartwork](gitartwork.svg)
 
+```javascript
+const danieldavidraj = {
+    pronouns: "he" | "him",
+    education:[
+       {
+           level:"masters",
+           major:"computer engineering"   
+       }
+    ],
+    skills:{
+        programmingLanguages: ["javascript", "typescript", "python", "c++", "java", "php", "c"],
+        frontendDevelopment: ["react", "redux", "angular", "tailwindcss","material-ui","bootstrap"],
+        backendDevelopment: ["nest.js", "flask", "django"],
+        database: ["dynamoDB", "redis", "postgres", "mongoDB", "mysql"],
+        baas: ["firebase", "heroku", "aws", "azure"],
+        testing: ["jest"],
+        toolkit: ["docker","git","3dsmax","xd"],
+        os: ["windows", "macOS"]
+    },
+    currentlyLearning:["web3"],
+}
+```
+
 <h3>My Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3>My Stats</h3>
+<h3>My Streaks</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danieldavidraj&show_icons=true&theme=buefy&include_all_commits=true&line_height=24)](https://git.io/streak-stats)
 
-<br>
-<a href="https://github.com/danieldavidraj/danieldavidraj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&theme=buefy&card_width=445&custom_title=Languages you can see here" />
-</a>
+<h3>My Stats</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danieldavidraj&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidraj)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&theme=buefy&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 ### SkillSet🎓
                                     
