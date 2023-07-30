@@ -6,8 +6,6 @@
 
 ![gitartwork](gitartwork.svg)
 
-### SkillSet🎓
-
 ```javascript
 const danieldavidraj = {
     pronouns: "he" | "him",
@@ -31,15 +29,23 @@ const danieldavidraj = {
 }
 ```
 
-<h3>My Trophies</h3>
+### SkillSet🎓
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,redux,tailwind,nestjs,django,flask,jest,dynamodb,redis,postgres,mysql,docker,aws,vscode,git" />
+  </a>
+</p>
+
+### My Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3>My Streaks</h3>
+### My Streaks
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danieldavidraj&show_icons=true&theme=buefy&include_all_commits=true&line_height=24)](https://git.io/streak-stats)
 
-<h3>My Stats</h3>
+### My Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidraj)](https://github.com/anuraghazra/github-readme-stats)
 
