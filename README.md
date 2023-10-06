@@ -1,8 +1,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=danieldavidraj&color=orange&style=flat-square">
 
-<h2> Hi, I'm Daniel Davidraj! 👨🏼‍💻</h2>
+## Hi, I'm Daniel Davidraj! 👨🏼‍💻
 
-<p>A passionate, dedicated and enthusiastic fresh university graduate who possesses strong computer and interpersonal skills.</p>
+<p>Just another guy whose life depends on 0s and 1s.</p>
 
 ![gitartwork](gitartwork.svg)
 
@@ -39,19 +39,26 @@ const danieldavidraj = {
 
 ### My Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
-
-### My Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danieldavidraj&show_icons=true&theme=buefy&include_all_commits=true&line_height=24)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj&margin-w=5&row=1&theme=codeSTACKr)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidraj)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&theme=buefy&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+<table style="border-collapse: collapse;">
+   <tr>
+    <td><p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieldavidraj&theme=codeSTACKr"></td></p>
+    <td><p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieldavidraj&theme=codeSTACKr"></td></p>
+   </tr>
+</table>
+ 
+<p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieldavidraj&theme=codeSTACKr"/>
+</p>
+<p>
+    <img src="https://streak-stats.demolab.com?user=danieldavidraj&theme=codeSTACKr" />
+</p>
                                 
 ### Connect with me 😼
+
 <a href="https://www.instagram.com/daniel_davidraj_/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=follow+me+on&logo=Instagram&message=Instagram&color=E4405F">
 </a>
